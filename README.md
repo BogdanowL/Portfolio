@@ -14,4 +14,4 @@ launch the command line:
 для заполнения профилей рандомными данными выполните  
 -php artisan tinker
   
-  >>>factory(App\User::class, 50)->create()  
+ `>>>factory(App\User::class, 50)->create()`  
